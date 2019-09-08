@@ -1,0 +1,33 @@
+c:\users\user\source\repos\WDEdvard1A\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.deps.json
+c:\users\user\source\repos\WDEdvard1A\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.runtimeconfig.json
+c:\users\user\source\repos\WDEdvard1A\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.runtimeconfig.dev.json
+c:\users\user\source\repos\WDEdvard1A\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.dll
+c:\users\user\source\repos\WDEdvard1A\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.pdb
+c:\users\user\source\repos\WDEdvard1A\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\WDEdvard1A\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\WDEdvard1A\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.AssemblyInfoInputs.cache
+c:\users\user\source\repos\WDEdvard1A\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.AssemblyInfo.cs
+c:\users\user\source\repos\WDEdvard1A\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.dll
+c:\users\user\source\repos\WDEdvard1A\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.pdb
+C:\Users\user\Desktop\WDEdvard Task 1\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.deps.json
+C:\Users\user\Desktop\WDEdvard Task 1\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.runtimeconfig.json
+C:\Users\user\Desktop\WDEdvard Task 1\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.runtimeconfig.dev.json
+C:\Users\user\Desktop\WDEdvard Task 1\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.dll
+C:\Users\user\Desktop\WDEdvard Task 1\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.pdb
+C:\Users\user\Desktop\WDEdvard Task 1\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WDEdvard Task 1\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WDEdvard Task 1\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\WDEdvard Task 1\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.AssemblyInfo.cs
+C:\Users\user\Desktop\WDEdvard Task 1\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.dll
+C:\Users\user\Desktop\WDEdvard Task 1\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.pdb
+C:\Users\Eduardo\Desktop\education\WD\WD Edvard Task 1\WD Edvard Task 1\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.deps.json
+C:\Users\Eduardo\Desktop\education\WD\WD Edvard Task 1\WD Edvard Task 1\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.runtimeconfig.json
+C:\Users\Eduardo\Desktop\education\WD\WD Edvard Task 1\WD Edvard Task 1\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.runtimeconfig.dev.json
+C:\Users\Eduardo\Desktop\education\WD\WD Edvard Task 1\WD Edvard Task 1\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.dll
+C:\Users\Eduardo\Desktop\education\WD\WD Edvard Task 1\WD Edvard Task 1\WDEdvard1A\bin\Debug\netcoreapp2.0\WDEdvard1A.pdb
+C:\Users\Eduardo\Desktop\education\WD\WD Edvard Task 1\WD Edvard Task 1\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.csprojAssemblyReference.cache
+C:\Users\Eduardo\Desktop\education\WD\WD Edvard Task 1\WD Edvard Task 1\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\education\WD\WD Edvard Task 1\WD Edvard Task 1\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\education\WD\WD Edvard Task 1\WD Edvard Task 1\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\education\WD\WD Edvard Task 1\WD Edvard Task 1\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.dll
+C:\Users\Eduardo\Desktop\education\WD\WD Edvard Task 1\WD Edvard Task 1\WDEdvard1A\obj\Debug\netcoreapp2.0\WDEdvard1A.pdb
